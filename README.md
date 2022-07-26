@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/computer-software-coding-with-abstract-binary-data_163855-142.jpg?w=2000">
+<img align="center" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/computer-software-coding-with-abstract-binary-data_163855-142.jpg?w=2000">
 
 <h1 align="center">Hi 👋, I'm Costin</h1>
 <h3 align="center">A passionate Computer Science student at ACS PUB.</h3>
