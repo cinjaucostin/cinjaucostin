@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=nice+coding+images&tbm=isch&ved=2ahUKEwi4mOG1gpf5AhUKShoKHc6LCysQ2-cCegQIABAA&oq=nice+coding+images&gs_lcp=CgNpbWcQAzoECAAQQzoFCAAQgAQ6BggAEB4QBzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOggIABCxAxCDAToHCAAQsQMQQzoKCAAQsQMQgwEQQzoECAAQHjoECAAQEzoGCAAQHhAFUOAGWO8YYOgZaABwAHgAgAF-iAH5C5IBBDE4LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=OhzgYriTEYqUac6XrtgC&bih=837&biw=1707#imgrc=_o5rsReV4xlgsM&imgdii=JpENKUao2z63LM">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/computer-software-coding-with-abstract-binary-data_163855-142.jpg?w=2000">
 
 <h1 align="center">Hi 👋, I'm Costin</h1>
 <h3 align="center">A passionate Computer Science student at ACS PUB.</h3>
