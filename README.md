@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="center" alt="Coding" width="1000" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" alt="Coding" width="800" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Spring Boot, React**
 
